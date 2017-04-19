@@ -23,5 +23,6 @@ module.exports = {
     'exponentiationOperator',
     'asyncGenerators',
     'functionBind',
+    'dynamicImport',
   ],
 };
